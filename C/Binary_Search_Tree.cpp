@@ -4,7 +4,7 @@
 typedef struct node 
 { 
 	int data; 
-	node* left;         //"*"nodepointer// 
+	node* left;         //"*"浠ｈ〃node鐨刾ointer// 
 	node* right; 
 	node* mommy;
 };
@@ -133,7 +133,7 @@ node* find_the_biggest_in_left(node* head3)
 	}
 }
 
-void left_child()                   //繦獽倒计禗オ娩琌街// 
+void left_child()                   //闅ㄤ究绲︿竴鍊嬫暩瀛楋紝鍛婅ù浠栧乏閭婄殑灏忓鏄// 
 {
 	int x;
 	printf("Give me a number and I'll tell U its left child.");
@@ -158,7 +158,7 @@ void left_child()                   //繦獽倒计禗オ娩琌街//
 	}
 }
 
-void right_child()                   //繦獽倒计禗娩琌街// 
+void right_child()                   //闅ㄤ究绲︿竴鍊嬫暩瀛楋紝鍛婅ù浠栧彸閭婄殑灏忓鏄// 
 {
 	int x;
 	printf("Give me a number and I'll tell U its right child.");
@@ -183,7 +183,7 @@ void right_child()                   //繦獽倒计禗娩琌街//
 	}
 }
 
-void is_leaf()                       //繦獽倒计耞琌程计// 
+void is_leaf()                       //闅ㄤ究绲︿竴鍊嬫暩瀛楋紝鍒ゆ柗鏄惁鐐烘渶寰屼竴鍊嬫暩// 
 {
 	int x;
 	printf("Give me a number and I'll tell U whether it is a leaf.");
