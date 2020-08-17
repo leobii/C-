@@ -1,2 +1,2 @@
 # Singularwings_intern
-## This three files are an example of C++
+## This file is an example of C++
