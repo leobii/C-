@@ -6,8 +6,8 @@ Followings are some brief introduction about these examples. <br>
 <br>
 > ## heapsort
 > Heapsort can sort numbers in a short time by using Complete Binary Tree. <br>
-> The time complexity of heapsort is `NlogN` both in best case and worse case. <br>
+> The time complexity of heapsort is NlogN both in best case and worse case. <br>
 <br>
 > ## quicksort
 > Quicksort can sort numbers in a short time. <br>
->> The time complexity of quicksort is `NlogN` in best case; however, the time complexity can also be `N square` in worst case. <br>
+> The time complexity of quicksort is NlogN in best case; however, the time complexity can also be N square in worst case. <br>
