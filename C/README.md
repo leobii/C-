@@ -1,2 +1,2 @@
 # DATA STUCTURE
-## This file is some examples of C
+#### This file is some examples of C
