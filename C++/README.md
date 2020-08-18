@@ -1,2 +1,2 @@
-# PROGRAMMING DESIGN
-## This file is an example of C++
+# C++
+#### This file is an example of C++
