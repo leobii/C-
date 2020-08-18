@@ -1,2 +1,2 @@
-# Singularwings_intern
+# DATA STUCTURE
 ## This file is some examples of C
