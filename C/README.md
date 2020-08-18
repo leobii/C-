@@ -1,10 +1,10 @@
 # C
-#### This file is some examples of C.
-#### These examples are some practices in data structure class.
-#### Followings are brief introduction about these examples.
-
-## Binary Search Tree
-#### This program includes several functions, such as insertion, deletion, traversal, finding child data according to a given data and deciding whether a given data is one of the tree's node.
-
-## quicksort
-#### Quicksort can sort numbers in a shorter time
+This folder includes some examples of C, which come from some practices in "Data Structure" classes. <br>
+Followings are some brief introduction about these examples. <br>
+> ## Binary Search Tree
+> This program includes several functions, such as insertion, deletion, traversal, finding child data according to a given data and deciding whether a given data is one of the tree's node.
+<br>
+> ## quicksort
+> Quicksort can sort numbers in a short time.
+> The time complexity of quicksort is `NlogN` in best case; however, the time complexity can also be `N square` in worst case.
+>
