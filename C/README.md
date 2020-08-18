@@ -10,4 +10,4 @@ Followings are some brief introduction about these examples. <br>
 <br>
 > ## quicksort
 > Quicksort can sort numbers in a short time. <br>
-> The time complexity of quicksort is `NlogN` in best case; however, the time complexity can also be `N square` in worst case. <br>
+>> The time complexity of quicksort is `NlogN` in best case; however, the time complexity can also be `N square` in worst case. <br>
